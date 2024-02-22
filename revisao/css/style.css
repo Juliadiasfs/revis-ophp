@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+input{
+    margin:8px;
+}
+label{
+    margin-left:5px;
+}
+#corpo{
+    height: 200px;
+    width: 200px;
+
+    position: relative;
+    border: 1px solid black;
+    margin: auto;
+}
